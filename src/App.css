@@ -1,3 +1,4 @@
+
 * {
   box-sizing: border-box;
 }
@@ -59,7 +60,7 @@ ul {
 }
 
 li {
-  padding: 1px;
+  padding: 8px;
   margin-bottom: 4px;
   border-radius: 8px;
   font-weight: bold;
@@ -68,12 +69,11 @@ li {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 300px;
 }
 
 button {
   cursor: pointer;
   border-radius: 8px;
-  background-color: #d6d1d1;
+  background-color: #ddd5d5;
   border: 1px solid transparent;
 }
